@@ -11,6 +11,8 @@ public class DemoTest {
 	{
 	
 	System.out.println("addition");
+	
+	System.out.println("SUBTRACTION");
 
 }
 }
